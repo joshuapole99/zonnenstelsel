@@ -1,0 +1,19 @@
+body
+{
+  background-color: Lavender;
+}
+
+#canvas
+{
+  border: 1px black solid;
+  background-color: black;
+  display: block;
+  margin: auto;
+}
+
+p
+{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 28px;
+}
